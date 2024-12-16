@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "ABCRepro-Medium";
+  font-weight: normal;
+  font-style: normal;
+  font-display: auto;
+  src: url("../fonts/ABCRepro-Medium-Trial.woff") format("woff"), url("../fonts/ABCRepro-Medium-Trial.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "bubble";
+  src: url(../fonts/Cormorant-VariableFont_wght.ttf);
+
+}
+
+@font-face {
+  font-family: "bluee";
+  src: url(../fonts/FamogDemoRegular-V479w.ttf);
+  
+}
+
+@font-face {
+  font-family: "pretty";
+  src: url(../fonts/Tangerine-Bold.ttf);
+  
+}
